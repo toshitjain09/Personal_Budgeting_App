@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1050524777351",
+    "firebase_url": "https://personal-budgeting-app-9011d-default-rtdb.firebaseio.com",
+    "project_id": "personal-budgeting-app-9011d",
+    "storage_bucket": "personal-budgeting-app-9011d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050524777351:android:71ade0e19dad73ae73f122",
+        "android_client_info": {
+          "package_name": "com.akshit.personal_budgeting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050524777351-tifu9v0s34rhl2umutemhkib3kfks7ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshit.personal_budgeting_app",
+            "certificate_hash": "ff7dde59c2f45e4a5574e07bcd2a653219180509"
+          }
+        },
+        {
+          "client_id": "1050524777351-hkq8ek52lteg9qdhmtsucnkm5ile8cu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMhSrb1dR95ZpiWRHYY9ljb888SXR0Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050524777351-hkq8ek52lteg9qdhmtsucnkm5ile8cu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050524777351:android:476fb6a75be2771a73f122",
+        "android_client_info": {
+          "package_name": "com.akshit.personalbudgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050524777351-hkq8ek52lteg9qdhmtsucnkm5ile8cu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMhSrb1dR95ZpiWRHYY9ljb888SXR0Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050524777351-hkq8ek52lteg9qdhmtsucnkm5ile8cu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
